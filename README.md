@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Caio Pereira!</strong>
 
->Gosto de esta sempre aprendendo coisas novas, formado em Engenharia Civil,
+>Formado em Engenharia Civil,
  atualmente estudante de Desenvolvimento Web - Full Stack na Trybe
 
 💬
