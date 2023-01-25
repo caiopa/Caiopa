@@ -1,7 +1,6 @@
 ## Olá, meu nome é <strong>Caio Pereira!</strong>
 
->Formado em Engenharia Civil,
- atualmente estudante de Desenvolvimento Web - Full Stack na Trybe
+>Olá, me chamo Caio, apaixonado por tecnologia e aprender coisas novas, formado em Engenharia Civil e Desenvolvimento Web Full-Stack. 
 
 💬
 ----
@@ -13,7 +12,7 @@
 ## 🚀 Tecnologias
 
 <div style="display: inline-block"><br/>
-  Em construção...
+ HTML, CSS, Javascript, React, Node.js, Express, Sequelize ORM, SQL, NoSQL, MySQL, Mongodb, Git, Github, testes RTL e Jest, Redux, Context API, JOI, Hooks, Typescript, POO, Teste com Mocha, Chai e Sinon, Python.
 <div>
 
 ---
