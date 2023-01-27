@@ -1,11 +1,13 @@
 ## Olá, meu nome é <strong>Caio Pereira!</strong>
 
->Olá, me chamo Caio, apaixonado por tecnologia e aprender coisas novas, formado em Engenharia Civil e Desenvolvimento Web Full-Stack. 
+## Sobre mim
+
+>Olá, me chamo Caio Pereira, Sou de Volta Redonda - RJ, apaixonado por tecnologia e aprender coisas novas, formado em Engenharia Civil e Desenvolvimento Web Full-Stack. 
 
 💬
 ----
 <p align="left">
-   <a target="_blank" href="https://www.linkedin.com/in/caiopantunes/" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/caiopantunes/" target="_blank"  alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </p>
 
