@@ -4,6 +4,8 @@
 
 >Olá, me chamo Caio Pereira, Sou de Volta Redonda - RJ, apaixonado por tecnologia e aprender coisas novas, formado em Engenharia Civil e Desenvolvimento Web Full-Stack. 
 
+Email: caioefg@gmail.com
+
 💬
 ----
 <p align="left">
