@@ -4,8 +4,8 @@
 
 >Olá, me chamo Caio Pereira, Sou de Volta Redonda - RJ, apaixonado por tecnologia e aprender coisas novas, formado em Engenharia Civil e Desenvolvimento Web Full-Stack. 
 >
-Portifolio:<a href="https://portifolio-caiopa.vercel.app/" target="_blank"  alt="portifolio">
-Email: <a href="mailto:caioefg@gmail.com" >
+Portifolio: https://portifolio-caiopa.vercel.app/
+Email: caioefg@gmail.com
 
 💬
 ----
