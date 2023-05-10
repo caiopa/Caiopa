@@ -22,5 +22,3 @@ Email: caioefg@gmail.com
 
 ---
  
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caiopa&show_icons=true)
