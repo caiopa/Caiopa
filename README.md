@@ -19,7 +19,7 @@ Email: caioefg@gmail.com
 <div style="display: inline-block"><br/>
  HTML, CSS, Javascript, React, Node.js, Express, Sequelize ORM, SQL, NoSQL, MySQL, Mongodb, Git, Github, testes RTL e Jest, Redux, Context API, JOI, Hooks, Typescript, POO, Teste com Mocha, Chai e Sinon, Python.
    
-  Atualmente estudando e me aprofundando sobre POO com java
+  Atualmente estudando e me aprofundando sobre POO com java no backend e Next no frontend
 <div>
 
 ---
