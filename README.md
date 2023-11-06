@@ -17,7 +17,7 @@ Email: caioefg@gmail.com
 ## 🚀 Tecnologias
 
 <div style="display: inline-block"><br/>
- HTML, CSS, Javascript, React, Node.js, Express, Sequelize, Prisma, SQL, NoSQL, MySQL, Mongodb, Git, Github, testes RTL e Jest, Redux, Context API, JOI, Hooks, Typescript, POO, Teste com Mocha, Chai e Sinon, Python.
+ HTML, CSS, Typescript, Javascript, React, Next.js, Tailwindcss, Zod, Joi, Hooks, Context, Redux, Node.js, Express, Sequelize, Prisma, SQL, NoSQL, MySQL, Mongodb, testes RTL e Jest, POO, Python, Docker, Git, Github.
    
   Atualmente estudando Next
 <div>
